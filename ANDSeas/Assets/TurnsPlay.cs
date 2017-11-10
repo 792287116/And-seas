@@ -58,34 +58,11 @@ public class TurnsPlay : MonoBehaviour {
             if (isBox0)
             {
                 PlayT(-1,true);
-                //picture[1].transform.localPosition = new Vector3(-w, 0, 0);
-                //picture[1].gameObject.SetActive(true);
-                //picture[1].transform.DOLocalMoveX(0, 0.3f)
-                //     .OnComplete(() => {
-                //         picture[1].gameObject.SetActive(true);
-                //     });
-                //picture[0].transform.DOLocalMoveX(w, 0.3f)
-                //    .OnComplete(() => {
-                //        picture[0].gameObject.SetActive(false);
-                //    });
-                //picture[1].transform.DOScale(Vector3.one, 0.3f);
-                //picture[0].transform.DOScale(Vector3.zero, 0.3f);
             }
             else
             {
                 PlayT(-1,false);
-                //picture[0].transform.localPosition = new Vector3(-w, 0, 0);
-                //picture[0].gameObject.SetActive(true);
-                //picture[0].transform.DOLocalMoveX(0, 0.3f)
-                //     .OnComplete(() => {
-                //         picture[0].gameObject.SetActive(true);
-                //     });
-                //picture[1].transform.DOLocalMoveX(w, 0.3f)
-                //    .OnComplete(() => {
-                //        picture[1].gameObject.SetActive(false);
-                //    });
-                //picture[0].transform.DOScale(Vector3.one, 0.3f);
-                //picture[1].transform.DOScale(Vector3.zero, 0.3f);
+                
             }
         }
         
@@ -111,7 +88,7 @@ public class TurnsPlay : MonoBehaviour {
                 picture[i].gameObject.SetActive(true);
             });
         picture[j].transform.DOScale(Vector3.zero, 0.3f);
-        picture[j].transform.DOLocalMoveX(-w, 0.3f)
+        picture[j].transform.DOLocalMoveX(-left*w, 0.3f)
             .OnComplete(() => {
                 picture[j].gameObject.SetActive(false);
             });
