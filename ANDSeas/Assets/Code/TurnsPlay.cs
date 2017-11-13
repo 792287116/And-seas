@@ -98,18 +98,24 @@ public class TurnsPlay : MonoBehaviour {
 
     public void PlayBefore() {
         PlayTween(true);
-        buttonBefore.transform.DOScale(new Vector3(0.8f,0.8f,0.8f),0.1f)
+        buttonBefore.transform.DOScale(new Vector3(0.8f,0.8f,0.8f),0.3f)
             .OnComplete(()=> {
-                buttonBefore.transform.localScale = Vector3.one;
+                buttonBefore.transform.DOScale(Vector3.one, 0.3f);
             });
+        buttonBefore.transform.GetChild(0).transform.DOLocalMoveX(0, 0.3f).OnComplete(() => {
+            buttonBefore.transform.GetChild(0).transform.DOLocalMoveX(14.62f, 0.3f);
+        });
         buttonBefore.enabled = false;
     }
     public void PlayNext() {
         PlayTween(false);
-        buttonNext.transform.DOScale(new Vector3(0.8f, 0.8f, 0.8f), 0.1f)
+        buttonNext.transform.DOScale(new Vector3(0.8f, 0.8f, 0.8f), 0.3f)
             .OnComplete(() => {
-                buttonNext.transform.localScale = Vector3.one;
+                buttonNext.transform.DOScale(Vector3.one, 0.3f);
             });
+        buttonNext.transform.GetChild(0).transform.DOLocalMoveX(0, 0.3f).OnComplete(() => {
+            buttonNext.transform.GetChild(0).transform.DOLocalMoveX(14.62f, 0.3f);
+        });
         buttonNext.enabled = false;
     }
 }
