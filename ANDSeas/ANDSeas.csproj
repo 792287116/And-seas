@@ -88,6 +88,7 @@
     <Compile Include="Assets\Code\AnimationFrame.cs" />
     <Compile Include="Assets\Code\Rocker.cs" />
     <Compile Include="Assets\Code\TurnsPlay.cs" />
+    <Compile Include="Assets\Code\UIMove.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Examples\Basics.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Examples\Sequences.cs" />
   </ItemGroup>
