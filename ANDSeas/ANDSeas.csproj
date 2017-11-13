@@ -84,11 +84,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Code\AnimationController.cs" />
+    <Compile Include="Assets\Code\AnimationFrame.cs" />
+    <Compile Include="Assets\Code\Floating.cs" />
+    <Compile Include="Assets\Code\Rocker.cs" />
+    <Compile Include="Assets\Code\TurnsPlay.cs" />
+    <Compile Include="Assets\Code\UIMove.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Examples\Basics.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Examples\Sequences.cs" />
-    <Compile Include="Assets\Mesh.cs" />
-    <Compile Include="Assets\Rocker.cs" />
-    <Compile Include="Assets\TurnsPlay.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Demigiant\DOTween\DOTween.XML" />
