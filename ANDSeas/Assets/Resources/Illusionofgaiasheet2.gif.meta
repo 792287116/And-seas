@@ -1,0 +1,3018 @@
+fileFormatVersion: 2
+guid: 974f8cde4d90bbc4882cea1bb909b913
+timeCreated: 1510365019
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Illusionofgaiasheet2_0
+    21300002: Illusionofgaiasheet2_1
+    21300004: Illusionofgaiasheet2_2
+    21300006: Illusionofgaiasheet2_3
+    21300008: Illusionofgaiasheet2_4
+    21300010: Illusionofgaiasheet2_5
+    21300012: Illusionofgaiasheet2_6
+    21300014: Illusionofgaiasheet2_7
+    21300016: Illusionofgaiasheet2_8
+    21300018: Illusionofgaiasheet2_9
+    21300020: Illusionofgaiasheet2_10
+    21300022: Illusionofgaiasheet2_11
+    21300024: Illusionofgaiasheet2_12
+    21300026: Illusionofgaiasheet2_13
+    21300028: Illusionofgaiasheet2_14
+    21300030: Illusionofgaiasheet2_15
+    21300032: Illusionofgaiasheet2_16
+    21300034: Illusionofgaiasheet2_17
+    21300036: Illusionofgaiasheet2_18
+    21300038: Illusionofgaiasheet2_19
+    21300040: Illusionofgaiasheet2_20
+    21300042: Illusionofgaiasheet2_21
+    21300044: Illusionofgaiasheet2_22
+    21300046: Illusionofgaiasheet2_23
+    21300048: Illusionofgaiasheet2_24
+    21300050: Illusionofgaiasheet2_25
+    21300052: Illusionofgaiasheet2_26
+    21300054: Illusionofgaiasheet2_27
+    21300056: Illusionofgaiasheet2_28
+    21300058: Illusionofgaiasheet2_29
+    21300060: Illusionofgaiasheet2_30
+    21300062: Illusionofgaiasheet2_31
+    21300064: Illusionofgaiasheet2_32
+    21300066: Illusionofgaiasheet2_33
+    21300068: Illusionofgaiasheet2_34
+    21300070: Illusionofgaiasheet2_35
+    21300072: Illusionofgaiasheet2_36
+    21300074: Illusionofgaiasheet2_37
+    21300076: Illusionofgaiasheet2_38
+    21300078: Illusionofgaiasheet2_39
+    21300080: Illusionofgaiasheet2_40
+    21300082: Illusionofgaiasheet2_41
+    21300084: Illusionofgaiasheet2_42
+    21300086: Illusionofgaiasheet2_43
+    21300088: Illusionofgaiasheet2_44
+    21300090: Illusionofgaiasheet2_45
+    21300092: Illusionofgaiasheet2_46
+    21300094: Illusionofgaiasheet2_47
+    21300096: Illusionofgaiasheet2_48
+    21300098: Illusionofgaiasheet2_49
+    21300100: Illusionofgaiasheet2_50
+    21300102: Illusionofgaiasheet2_51
+    21300104: Illusionofgaiasheet2_52
+    21300106: Illusionofgaiasheet2_53
+    21300108: Illusionofgaiasheet2_54
+    21300110: Illusionofgaiasheet2_55
+    21300112: Illusionofgaiasheet2_56
+    21300114: Illusionofgaiasheet2_57
+    21300116: Illusionofgaiasheet2_58
+    21300118: Illusionofgaiasheet2_59
+    21300120: Illusionofgaiasheet2_60
+    21300122: Illusionofgaiasheet2_61
+    21300124: Illusionofgaiasheet2_62
+    21300126: Illusionofgaiasheet2_63
+    21300128: Illusionofgaiasheet2_64
+    21300130: Illusionofgaiasheet2_65
+    21300132: Illusionofgaiasheet2_66
+    21300134: Illusionofgaiasheet2_67
+    21300136: Illusionofgaiasheet2_68
+    21300138: Illusionofgaiasheet2_69
+    21300140: Illusionofgaiasheet2_70
+    21300142: Illusionofgaiasheet2_71
+    21300144: Illusionofgaiasheet2_72
+    21300146: Illusionofgaiasheet2_73
+    21300148: Illusionofgaiasheet2_74
+    21300150: Illusionofgaiasheet2_75
+    21300152: Illusionofgaiasheet2_76
+    21300154: Illusionofgaiasheet2_77
+    21300156: Illusionofgaiasheet2_78
+    21300158: Illusionofgaiasheet2_79
+    21300160: Illusionofgaiasheet2_80
+    21300162: Illusionofgaiasheet2_81
+    21300164: Illusionofgaiasheet2_82
+    21300166: Illusionofgaiasheet2_83
+    21300168: Illusionofgaiasheet2_84
+    21300170: Illusionofgaiasheet2_85
+    21300172: Illusionofgaiasheet2_86
+    21300174: Illusionofgaiasheet2_87
+    21300176: Illusionofgaiasheet2_88
+    21300178: Illusionofgaiasheet2_89
+    21300180: Illusionofgaiasheet2_90
+    21300182: Illusionofgaiasheet2_91
+    21300184: Illusionofgaiasheet2_92
+    21300186: Illusionofgaiasheet2_93
+    21300188: Illusionofgaiasheet2_94
+    21300190: Illusionofgaiasheet2_95
+    21300192: Illusionofgaiasheet2_96
+    21300194: Illusionofgaiasheet2_97
+    21300196: Illusionofgaiasheet2_98
+    21300198: Illusionofgaiasheet2_99
+    21300200: Illusionofgaiasheet2_100
+    21300202: Illusionofgaiasheet2_101
+    21300204: Illusionofgaiasheet2_102
+    21300206: Illusionofgaiasheet2_103
+    21300208: Illusionofgaiasheet2_104
+    21300210: Illusionofgaiasheet2_105
+    21300212: Illusionofgaiasheet2_106
+    21300214: Illusionofgaiasheet2_107
+    21300216: Illusionofgaiasheet2_108
+    21300218: Illusionofgaiasheet2_109
+    21300220: Illusionofgaiasheet2_110
+    21300222: Illusionofgaiasheet2_111
+    21300224: Illusionofgaiasheet2_112
+    21300226: Illusionofgaiasheet2_113
+    21300228: Illusionofgaiasheet2_114
+    21300230: Illusionofgaiasheet2_115
+    21300232: Illusionofgaiasheet2_116
+    21300234: Illusionofgaiasheet2_117
+    21300236: Illusionofgaiasheet2_118
+    21300238: Illusionofgaiasheet2_119
+    21300240: Illusionofgaiasheet2_120
+    21300242: Illusionofgaiasheet2_121
+    21300244: Illusionofgaiasheet2_122
+    21300246: Illusionofgaiasheet2_123
+    21300248: Illusionofgaiasheet2_124
+    21300250: Illusionofgaiasheet2_125
+    21300252: Illusionofgaiasheet2_126
+    21300254: Illusionofgaiasheet2_127
+    21300256: Illusionofgaiasheet2_128
+    21300258: Illusionofgaiasheet2_129
+    21300260: Illusionofgaiasheet2_130
+    21300262: Illusionofgaiasheet2_131
+    21300264: Illusionofgaiasheet2_132
+    21300266: Illusionofgaiasheet2_133
+    21300268: Illusionofgaiasheet2_134
+    21300270: Illusionofgaiasheet2_135
+    21300272: Illusionofgaiasheet2_136
+    21300274: Illusionofgaiasheet2_137
+    21300276: Illusionofgaiasheet2_138
+    21300278: Illusionofgaiasheet2_139
+    21300280: Illusionofgaiasheet2_140
+    21300282: Illusionofgaiasheet2_141
+    21300284: Illusionofgaiasheet2_142
+    21300286: Illusionofgaiasheet2_143
+    21300288: Illusionofgaiasheet2_144
+    21300290: Illusionofgaiasheet2_145
+    21300292: Illusionofgaiasheet2_146
+    21300294: Illusionofgaiasheet2_147
+    21300296: Illusionofgaiasheet2_148
+    21300298: Illusionofgaiasheet2_149
+    21300300: Illusionofgaiasheet2_150
+    21300302: Illusionofgaiasheet2_151
+    21300304: Illusionofgaiasheet2_152
+    21300306: Illusionofgaiasheet2_153
+    21300308: Illusionofgaiasheet2_154
+    21300310: Illusionofgaiasheet2_155
+    21300312: Illusionofgaiasheet2_156
+    21300314: Illusionofgaiasheet2_157
+    21300316: Illusionofgaiasheet2_158
+    21300318: Illusionofgaiasheet2_159
+    21300320: Illusionofgaiasheet2_160
+    21300322: Illusionofgaiasheet2_161
+    21300324: Illusionofgaiasheet2_162
+    21300326: Illusionofgaiasheet2_163
+    21300328: Illusionofgaiasheet2_164
+    21300330: Illusionofgaiasheet2_165
+    21300332: Illusionofgaiasheet2_166
+    21300334: Illusionofgaiasheet2_167
+    21300336: Illusionofgaiasheet2_168
+    21300338: Illusionofgaiasheet2_169
+    21300340: Illusionofgaiasheet2_170
+    21300342: Illusionofgaiasheet2_171
+    21300344: Illusionofgaiasheet2_172
+    21300346: Illusionofgaiasheet2_173
+    21300348: Illusionofgaiasheet2_174
+    21300350: Illusionofgaiasheet2_175
+    21300352: Illusionofgaiasheet2_176
+    21300354: Illusionofgaiasheet2_177
+    21300356: Illusionofgaiasheet2_178
+    21300358: Illusionofgaiasheet2_179
+    21300360: Illusionofgaiasheet2_180
+    21300362: Illusionofgaiasheet2_181
+    21300364: Illusionofgaiasheet2_182
+    21300366: Illusionofgaiasheet2_183
+    21300368: Illusionofgaiasheet2_184
+    21300370: Illusionofgaiasheet2_185
+    21300372: Illusionofgaiasheet2_186
+    21300374: Illusionofgaiasheet2_187
+    21300376: Illusionofgaiasheet2_188
+    21300378: Illusionofgaiasheet2_189
+    21300380: Illusionofgaiasheet2_190
+    21300382: Illusionofgaiasheet2_191
+    21300384: Illusionofgaiasheet2_192
+    21300386: Illusionofgaiasheet2_193
+    21300388: Illusionofgaiasheet2_194
+    21300390: Illusionofgaiasheet2_195
+    21300392: Illusionofgaiasheet2_196
+    21300394: Illusionofgaiasheet2_197
+    21300396: Illusionofgaiasheet2_198
+    21300398: Illusionofgaiasheet2_199
+    21300400: Illusionofgaiasheet2_200
+    21300402: Illusionofgaiasheet2_201
+    21300404: Illusionofgaiasheet2_202
+    21300406: Illusionofgaiasheet2_203
+    21300408: Illusionofgaiasheet2_204
+    21300410: Illusionofgaiasheet2_205
+    21300412: Illusionofgaiasheet2_206
+    21300414: Illusionofgaiasheet2_207
+    21300416: Illusionofgaiasheet2_208
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1942
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1942
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1942
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1880
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1880
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1880
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1880
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1880
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1880
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1880
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1817
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1817
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1817
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1817
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1817
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1817
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1817
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1731
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1731
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1731
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_20
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1731
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1731
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1731
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_23
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1731
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1662
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1662
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1650
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1650
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1649
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1661
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_30
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1661
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1592
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1592
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1592
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1592
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1592
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_36
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1592
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1592
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1592
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_39
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1538
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1537
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_41
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1538
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_42
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1537
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1481
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1480
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_45
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1481
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1480
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_47
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1434
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1434
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1434
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1434
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_51
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1434
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_52
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1434
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_53
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1434
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_54
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1434
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_55
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1383
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_56
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1383
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_57
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1383
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1383
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_59
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1383
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_60
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1383
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_61
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1329
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_62
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1329
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_63
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1329
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1329
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_65
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1329
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1329
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_67
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1329
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_68
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1329
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_69
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1274
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_70
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1274
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_71
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1274
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_72
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1270
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_73
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1273
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_74
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1274
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_75
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1274
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_76
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1271
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1207
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_78
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1207
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_79
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1207
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1207
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_81
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1207
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_82
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1207
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_83
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1207
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_84
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1207
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_85
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1207
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_86
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1207
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_87
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1207
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_88
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1207
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1148
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_90
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1148
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_91
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1148
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_92
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1149
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_93
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1148
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_94
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1148
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_95
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1148
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_96
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1077
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_97
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1077
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_98
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1077
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_99
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1077
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_100
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1077
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_101
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1077
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_102
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1077
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_103
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1077
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_104
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1021
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1021
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_106
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1021
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_107
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1021
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_108
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 975
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_109
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 975
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_110
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 975
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_111
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 935
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_112
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 935
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_113
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 935
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_114
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 888
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_115
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 888
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_116
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 888
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_117
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 888
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_118
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 888
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_119
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 888
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_120
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 840
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_121
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 840
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_122
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 840
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_123
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 840
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_124
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 840
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_125
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 840
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_126
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 840
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_127
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 840
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_128
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 840
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_129
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 840
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_130
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 792
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_131
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 792
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_132
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 792
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_133
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 792
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_134
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 792
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_135
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 747
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 747
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_137
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 747
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_138
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 747
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_139
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 747
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_140
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 702
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_141
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 702
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_142
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 702
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_143
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 649
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_144
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 602
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_145
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 602
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_146
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 602
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_147
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 602
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_148
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 602
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_149
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 602
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_150
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 564
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_151
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 564
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_152
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 564
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_153
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 517
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_154
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 517
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_155
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 517
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_156
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 517
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_157
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 517
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_158
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 517
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_159
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 478
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_160
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 477
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_161
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 477
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_162
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 423
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_163
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 423
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_164
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 423
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_165
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 423
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_166
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 379
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_167
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 379
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_168
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 379
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_169
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 379
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_170
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 338
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_171
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 277
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_172
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 278
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_173
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 201
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_174
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 201
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_175
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 201
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_176
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 201
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_177
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 201
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_178
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 201
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_179
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 201
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_180
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 201
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_181
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 201
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_182
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 138
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_183
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 138
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_184
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 138
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_185
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 138
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_186
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 138
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_187
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 138
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_188
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 138
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_189
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 138
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_190
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 138
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_191
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 68
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_192
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 68
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_193
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 68
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_194
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 68
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_195
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 68
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_196
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 68
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_197
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 68
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_198
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 68
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_199
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 68
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_200
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 11
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_201
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 11
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_202
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 11
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_203
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 11
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_204
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 11
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_205
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 11
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_206
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 11
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_207
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 11
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Illusionofgaiasheet2_208
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
