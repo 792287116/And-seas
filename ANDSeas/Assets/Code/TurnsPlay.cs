@@ -34,7 +34,6 @@ public class TurnsPlay : MonoBehaviour {
         {
             index = 0;
         }
-        Debug.Log(index);
         if (isBox0)
         {
             picture[1].sprite = sprites[index++];
