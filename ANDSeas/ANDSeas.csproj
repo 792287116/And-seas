@@ -88,6 +88,11 @@
     <Compile Include="Assets\Code\AnimationFrame.cs" />
     <Compile Include="Assets\Code\Floating.cs" />
     <Compile Include="Assets\Code\Rocker.cs" />
+    <Compile Include="Assets\Code\Scripts\Emeny.cs" />
+    <Compile Include="Assets\Code\Scripts\Path.cs" />
+    <Compile Include="Assets\Code\Scripts\Player.cs" />
+    <Compile Include="Assets\Code\Scripts\Rocket_origin.cs" />
+    <Compile Include="Assets\Code\Scripts\Star.cs" />
     <Compile Include="Assets\Code\TurnsPlay.cs" />
     <Compile Include="Assets\Code\UIMove.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Examples\Basics.cs" />

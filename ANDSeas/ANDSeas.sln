@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANDSeas", "Assembly-CSharp.csproj", "{23DCADA0-B470-FE40-87F0-3B876076147A}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANDSeas", "ANDSeas.csproj", "{10BB0694-4CAE-D7D8-EC35-34360C507A2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{23DCADA0-B470-FE40-87F0-3B876076147A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{23DCADA0-B470-FE40-87F0-3B876076147A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{23DCADA0-B470-FE40-87F0-3B876076147A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{23DCADA0-B470-FE40-87F0-3B876076147A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10BB0694-4CAE-D7D8-EC35-34360C507A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BB0694-4CAE-D7D8-EC35-34360C507A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BB0694-4CAE-D7D8-EC35-34360C507A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BB0694-4CAE-D7D8-EC35-34360C507A2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
