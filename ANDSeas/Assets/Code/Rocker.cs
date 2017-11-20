@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using DG.Tweening;
+using System;
 
 public class Rocker : MonoBehaviour {
     public float speed;
@@ -24,6 +25,19 @@ public class Rocker : MonoBehaviour {
     public GameObject bullet;
     Quaternion bulletQuaternion;
     public Vector3 vec3;
+
+    KeyCode currentKey;
+
+    public float jumpSpeed = 10;
+
+    public float gravity = 20;
+
+    public float margin = 0.1f;
+
+    private Vector3 moveDirection = Vector3.zero;
+
+    private Collider2D controller;
+
     // Use this for initialization
     void Start () {
         parentV = this.GetComponentInParent<RectTransform>().position;
@@ -54,13 +68,13 @@ public class Rocker : MonoBehaviour {
 
         bulletQuaternion = Quaternion.Euler(vec3);
     }
-	
-	// Update is called once per frame
-	void Update () {
+
+    // Update is called once per frame
+    void Update() {
+        playerX = speed * (this.transform.position.x - parentV.x) * Time.deltaTime;
         if (isWalk)
         {
-            playerX = speed * (this.transform.position.x - parentV.x) * Time.deltaTime;
-            player.transform.position += 
+            player.transform.position +=
                 new Vector3(playerX, player.transform.position.y, 0);
             angle = Vector3.Angle(dir, new Vector3(1, 0, 0));
             //if (this.transform.localPosition.y > 0 && angle > 45 && angle < 135)
@@ -83,7 +97,53 @@ public class Rocker : MonoBehaviour {
         else {
             //animator.SetInteger("Walk",4);
         }
-	}
+
+        //检测按键名字
+        //if (Input.anyKeyDown)
+        //{
+        //    foreach (KeyCode keyCode in Enum.GetValues(typeof(KeyCode)))
+        //    {
+        //        if (Input.GetKeyDown(keyCode))
+        //        {
+        //            Debug.Log(keyCode.ToString());
+        //        }
+        //    }
+        //}
+
+        if (Input.GetKeyDown(KeyCode.JoystickButton0))
+        {
+            Debug.Log("A");
+            OpenFire();
+        }
+        if (Input.GetKeyDown(KeyCode.JoystickButton1))
+        {
+            Debug.Log("B");
+            Jump();
+        }
+
+        var inputX = Input.GetAxis("Horizontal");
+        var inputY = Input.GetAxis("Vertical");
+        if (inputX != 0 || inputY != 0)
+        {
+            this.transform.localPosition = new Vector3(inputX * parentV.x / 2, inputY * parentV.y / 2, 0);
+            player.transform.position += new Vector3(playerX, player.transform.position.y, 0);
+        }
+        if (inputX == 0 && inputY == 0)
+        {
+            this.transform.localPosition = Vector3.zero;
+        }
+
+        if (Physics.Raycast(transform.position, -Vector3.up, margin))
+        {
+            // 空格键控制跳跃  
+            if (Input.GetButton("Jump"))
+            {
+                moveDirection.y = jumpSpeed;
+            }
+        }
+        moveDirection.y -= gravity * Time.deltaTime;
+        controller.(moveDirection * Time.deltaTime);
+    }
 
     private void OnpointerDrag(PointerEventData data) {
         dir = new Vector3(data.position.x, data.position.y, 0) - parentV;
@@ -103,21 +163,11 @@ public class Rocker : MonoBehaviour {
     }
 
     public void Jump() {
-        if (isJump == false)
-        {
-            isJump = true;
-            player.transform.DOLocalJump(new Vector3(player.transform.position.x,0,0), 1, 1, 0.5f, false)
-            .SetEase(Ease.InOutQuad)
-            .OnComplete(() => {
-                isJump = false;
-            });
-        }
         
     }
     //发射子弹
     public void OpenFire() {
-        Vector3 vec = player
-        Instantiate(bullet, vec, bulletQuaternion);
+        Vector3 vec = player.transform.GetChild(0).transform.position;
+         Instantiate(bullet, vec, bulletQuaternion);
     }
-
 }
