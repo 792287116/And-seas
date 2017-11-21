@@ -3,16 +3,27 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Bullet : MonoBehaviour {
-    public float force;
-    public Vector2 dir;
+    private float force;
+    private Vector2 dir;
+    private float t;
 	// Use this for initialization
 	void Start () {
-        this.GetComponent<Rigidbody2D>().AddForce(dir * force);
+        
 	}
 
     // Update is called once per frame
     void Update()
     {
-        
+        t += Time.deltaTime;
+        if (t >= 2)
+        {
+            Destroy(this.gameObject);
+        }
+    }
+
+    public void Fir(float f,Vector2 v) {
+        force = f;
+        dir = v;
+        this.GetComponent<Rigidbody2D>().AddForce(dir * force);
     }
 }
