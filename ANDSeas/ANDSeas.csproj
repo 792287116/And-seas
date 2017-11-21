@@ -87,8 +87,10 @@
     <Compile Include="Assets\Code\AnimationController.cs" />
     <Compile Include="Assets\Code\AnimationFrame.cs" />
     <Compile Include="Assets\Code\Bullet.cs" />
+    <Compile Include="Assets\Code\Enemy.cs" />
     <Compile Include="Assets\Code\Floating.cs" />
     <Compile Include="Assets\Code\Gameing1.cs" />
+    <Compile Include="Assets\Code\HP.cs" />
     <Compile Include="Assets\Code\InputKeyEvent.cs" />
     <Compile Include="Assets\Code\Player.cs" />
     <Compile Include="Assets\Code\Rocker.cs" />

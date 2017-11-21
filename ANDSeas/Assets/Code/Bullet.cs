@@ -25,5 +25,6 @@ public class Bullet : MonoBehaviour {
         force = f;
         dir = v;
         this.GetComponent<Rigidbody2D>().AddForce(dir * force);
+        this.transform.rotation = Quaternion.Euler(new Vector3(0,0,30));
     }
 }

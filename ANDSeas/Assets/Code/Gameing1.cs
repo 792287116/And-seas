@@ -13,6 +13,8 @@ public class Gameing1 : MonoBehaviour {
     private float strip_typeH = 0;
     private RectTransform strip_typeR;
     Tweener strip_typeT;
+    public GameObject player;
+    public GameObject Enemy;
 
 	void Start () {
         strip_typeR = strip_type.GetComponent<RectTransform>();
@@ -31,6 +33,9 @@ public class Gameing1 : MonoBehaviour {
         strip_typeR.sizeDelta = new Vector2(6, 0);
         HOME.transform.localScale = Vector3.zero;
         BOOK.transform.localScale = Vector3.zero;
+
+        player.transform.position = new Vector3(-5f,-1,0);
+        Enemy.transform.position = new Vector3(5,-1.9f,0);
     }
 
     void Update () {

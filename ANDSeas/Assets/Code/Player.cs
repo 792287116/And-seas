@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Player : MonoBehaviour {
     private bool isCanJump;
+    private float HP = 300;
+    public 
 	// Use this for initialization
 	void Start () {
 		
@@ -14,15 +16,23 @@ public class Player : MonoBehaviour {
 		
 	}
 
-    // 碰撞开始    
+    void OnTriggerEnter(Collider collider)
+    {
+        Debug.Log("击中了");
+        if (collider.tag == "EnemyBullet")
+        {
+            HP -= 10;
+            Destroy(collider.gameObject);
+        }
+    }
+
     void OnCollisionEnter(Collision collision)
     {
-        if (collision.collider.tag == "Floor")
+        Debug.Log("击中了");
+        if (collision.collider.tag == "EnemyBullet")
         {
-            isCanJump = true;
-        }
-        else {
-            isCanJump = false;
+            HP -= 10;
+            Destroy(collision.gameObject);
         }
     }
 
@@ -31,5 +41,9 @@ public class Player : MonoBehaviour {
     }
     public bool GetJump() {
         return isCanJump;
+    }
+
+    public float GetHP() {
+        return HP;
     }
 }

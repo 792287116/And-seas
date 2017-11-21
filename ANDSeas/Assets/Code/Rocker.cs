@@ -21,7 +21,7 @@ public class Rocker : MonoBehaviour {
     private float playerY = 0;
     private Sequence JumpT;
     private bool isJump = false;
-    private bool isCanJump = false;
+    private bool isCanJump = true;
 
     public GameObject bullet;
     Quaternion bulletQuaternion;
@@ -29,7 +29,7 @@ public class Rocker : MonoBehaviour {
 
     KeyCode currentKey;
 
-    private float jumpSpeed = 2f;
+    private float jumpSpeed = 0f;
 
     public float gravity = 20;
 
@@ -37,6 +37,7 @@ public class Rocker : MonoBehaviour {
 
     private Vector2 moveDirection = Vector2.zero;
 
+    private Rigidbody2D playerRigi;
     // Use this for initialization
     void Start () {
         parentV = this.GetComponentInParent<RectTransform>().position;
@@ -57,54 +58,41 @@ public class Rocker : MonoBehaviour {
         joystickDragEnd.callback.AddListener((data)=> { OnpointerDragEnd((PointerEventData)data); });
         joystick.triggers.Add(joystickDragEnd);
 
-        //JumpT = player.transform.DOLocalJump(new Vector3(playerX, 0, 0), 1, 1, 0.5f, false)
-        //    .SetAutoKill(false)
-        //    .Pause()
-        //    .SetEase(Ease.InOutQuad)
-        //    .OnComplete(()=> {
-        //        isJump = false;
-        //    });
-
         bulletQuaternion = Quaternion.Euler(vec3);
+
+        playerRigi = player.GetComponent<Rigidbody2D>();
     }
     
-
-    // Update is called once per frame
     void Update() {
+        //var inputX = Input.GetAxis("Horizontal");
+        //var inputY = Input.GetAxis("Vertical");
+        //if (inputX != 0 || inputY != 0)
+        //{
+        //    this.transform.localPosition = new Vector3(inputX * parentV.x / 2, inputY * parentV.y / 2, 0);
+        //    isWalk = true;
+        //}
+        //if (inputX == 0 && inputY == 0 && this.transform.localPosition != Vector3.zero)
+        //{
+        //    this.transform.localPosition = Vector3.zero;
+        //    isWalk = false;
+        //}
         
         if (isWalk)
         {
             playerX = speed * (this.transform.position.x - parentV.x) * Time.deltaTime;
-            angle = Vector3.Angle(dir, new Vector3(1, 0, 0));
-            player.GetComponent<Rigidbody2D>().velocity = new Vector2(playerX,0);
+            playerRigi.velocity = new Vector2(playerX, playerY);
         }
         if (isJump)
         {
             playerY = jumpSpeed;
             jumpSpeed -= gravity * Time.deltaTime;
-            player.GetComponent<Rigidbody2D>().velocity = new Vector2(0, playerY);
+            playerRigi.velocity = new Vector2(playerX, playerY);
+            if (jumpSpeed <= -10)
+            {
+                isJump = false;
+                isCanJump = true;
+            }
         }
-        if (Physics2D.Raycast(player.transform.position - new Vector3(0, 247 / 2, 0), -Vector2.up, 0.1f))
-        {
-            isCanJump = true;
-        }
-        else
-        {
-            isCanJump = false;
-        }
-        var inputX = Input.GetAxis("Horizontal");
-        var inputY = Input.GetAxis("Vertical");
-        if (inputX != 0 || inputY != 0)
-        {
-            this.transform.localPosition = new Vector3(inputX * parentV.x / 2, inputY * parentV.y / 2, 0);
-            isWalk = true;
-        }
-        if (inputX == 0 && inputY == 0 && this.transform.localPosition != Vector3.zero)
-        {
-            this.transform.localPosition = Vector3.zero;
-            isWalk = false;
-        }
-
         
         //检测按键名字
         //if (Input.anyKeyDown)
@@ -118,26 +106,26 @@ public class Rocker : MonoBehaviour {
         //    }
         //}
 
-        if (Input.GetKeyDown(KeyCode.JoystickButton0))
-        {
-            Debug.Log("手柄A");
-            OpenFire();
-        }
-        if (Input.GetKeyDown(KeyCode.JoystickButton1))
-        {
-            Debug.Log("手柄B");
-            Jump();
-        }
-        if (Input.GetKeyDown(KeyCode.J))
-        {
-            OpenFire();
-        }
-        if (Input.GetKeyDown(KeyCode.K))
-        {
-            Jump();
-        }
-
+        //if (Input.GetKeyDown(KeyCode.JoystickButton0))
+        //{
+        //    Debug.Log("手柄A");
+        //    OpenFire();
+        //}
+        //if (Input.GetKeyDown(KeyCode.JoystickButton1))
+        //{
+        //    Debug.Log("手柄B");
+        //    Jump();
+        //}
+        //if (Input.GetKeyDown(KeyCode.J))
+        //{
+        //    OpenFire();
+        //}
+        //if (Input.GetKeyDown(KeyCode.K))
+        //{
+        //    Jump();
+        //}
         
+
     }
 
     private void OnpointerDrag(PointerEventData data) {
@@ -158,11 +146,11 @@ public class Rocker : MonoBehaviour {
     }
 
     public void Jump() {
-        if (Physics.Raycast(player.transform.position - new Vector3(0, 247 / 2, 0), -Vector3.up, 0.1f))
+        if (isCanJump)
         {
             isJump = true;
-            isWalk = true;
             jumpSpeed = 10;
+            isCanJump = false;
         }
     }
 
