@@ -1,3 +1,7 @@
 add 把变更录入到索引中
+<<<<<<< HEAD
 commit 记录索引的状态
 pull 取得远端数据库的内容
+=======
+commit 记录索引的状态
+>>>>>>> 99b5c70e8a96156dc983a9fac2d307ca5edd2adf
